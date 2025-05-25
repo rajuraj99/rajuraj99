@@ -5,7 +5,7 @@
 <h1 align="center">Hi Everyone!, This is Raju</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/rajuraj99/rajuraj99/blob/main/RightImage.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajuraj99&label=Profile%20views&color=0e75b6&style=flat" alt="rajuraj99" /> </p>
 
