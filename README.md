@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raju</h1>
 <h3 align="center">A Junior frontend developer from Bangladesh</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajuraj99&label=Profile%20views&color=0e75b6&style=flat" alt="rajuraj99" /> </p>
 
 - 🔭 I’m currently working on **Ticketing System Project**
