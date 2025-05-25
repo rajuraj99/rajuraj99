@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rajuraj99/rajuraj99/blob/main/Banner.gif?raw=true" />
+  <img src="https://github.com/rajuraj99/rajuraj99/blob/main/Poster.gif?raw=true" />
 </div>
 
 <h1 align="center">Hi Everyone!, This is Raju</h1>
